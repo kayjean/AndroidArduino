@@ -1,4 +1,4 @@
-package com.example.kayjean.arduino;
+package com.example.kayjean.arduinoadk;
 
 import org.junit.Test;
 
